@@ -1,0 +1,2 @@
+直接运行：win-install.cmd  即可
+来源：vicosna.com
