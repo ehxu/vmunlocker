@@ -33,6 +33,8 @@ Windows Unlocker具有使用PyInstaller的Python脚本的打包版本，
 
 下载本项目源码，直接右键以管理员身份运行：`win-install.cmd`  即可
 
+`darwin.iso`和`darwinPre15.iso`ISO存放路径：`C:\Program Files (x86)\VMware\VMware Workstation\`
+
 4.谢谢
 ---------
 
