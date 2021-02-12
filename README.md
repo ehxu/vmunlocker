@@ -1,7 +1,7 @@
 适用于VMware Workstation的macOS Unlocker V3.0
 -----------------------------------------
 
-本项目魔改自大佬[Paolo](https://github.com/paolo-projects/unlocker/)的一个项目，因国内下载`darwin.iso`和`darwinPre15.iso`下载速度不佳，于是在此项目中集成，镜像目录在`/tools/`下。
+本项目魔改自大佬[Paolo](https://github.com/paolo-projects/unlocker/)的一个项目，因国内下载`darwin.iso`和`darwinPre15.iso`下载速度不佳，于是在此项目中集成，VMTools镜像目录在`/tools/`下。
 
 ## 1.简介
 
@@ -33,7 +33,7 @@ Windows Unlocker具有使用PyInstaller的Python脚本的打包版本，
 
 下载本项目源码，直接右键以管理员身份运行：`win-install.cmd`  即可
 
-`darwin.iso`和`darwinPre15.iso`ISO存放路径：`C:\Program Files (x86)\VMware\VMware Workstation\`
+VMTools的`darwin.iso`和`darwinPre15.iso`ISO存放路径：`C:\Program Files (x86)\VMware\VMware Workstation\`
 
 4.谢谢
 ---------
